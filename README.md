@@ -1,4 +1,4 @@
-# LightWeightSoftLock
+# LightWeightSoftLock [中文](./README_zh.md)
 A light weight software license management solution
 
 

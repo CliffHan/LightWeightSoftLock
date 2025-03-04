@@ -1,4 +1,4 @@
-### DEMO
+### DEMO [中文](./DEMO_zh.md)
 
 This demo used key from "demo_client". With these files included:
 
